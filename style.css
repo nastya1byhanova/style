@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(219, 248, 249);
+    font-size: 20px;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius:15px;
+}
+
+header a {
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: purple
+}
+
+footer {
+    background-color: pink;
+    padding: 7px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+.produkt {
+    background-color: rgb(203, 241, 138);
+    padding: 10px;
+    color: green;
+    border-radius: 10px;
+}
+
+h2 {
+    background-color: rgb(210, 250, 158);
+}
